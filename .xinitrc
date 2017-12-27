@@ -1,6 +1,8 @@
 #!/bin/sh
 exec i3
-#~/.fehbg &
+#exec feh --bg-scale Images/Wallpapers/pinkSunset.png &
+
+#feh --bg-scale Images/Wallpapers/pinkSunset.png &
 #xrdb ~/.Xresources
 #xrdb ~/.Xdefaults
 
