@@ -166,6 +166,9 @@ exec sh ~/.fehbg &
 # starting redshift as background process using '&' symbol:
 exec redshift -l 53.2810570:-0.6289510 -t 2500:2000 &
 
+# lock screen
+# exec --no-startup-id xautolock -time 10 -locker 'i3lock -d -c 000000'
+
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
 bar {

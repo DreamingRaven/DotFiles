@@ -1,5 +1,5 @@
 ! urxvt specific settings
-URxvt.font: xft:Inconsolata:size=13
+URxvt.font: xft:Inconsolata:size=12
 URxvt.scrollBar:false
 urxvt*transparent:true
 urxvt*shading: 50
